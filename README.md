@@ -2,11 +2,11 @@
 lokaverkefni i vesm
 
 # Myndband af Snúrustýrður bíll með fjarstýringu
-
+https://www.youtube.com/watch?v=pYsarbQF3kQ&feature=youtu.be
 # Tinkercad link
 https://www.tinkercad.com/things/0HbZ9zkIMRe-lokaverkefni-vesm/editel?sharecode=BJIkOjMOXkG2-XQpFAz2repSeiCsLwcHQSO4gvbR3RQ
 # Myndband af bílnum
-
+https://www.youtube.com/watch?v=LG6TwuXU8lM&feature=youtu.be
 # Bíll link
 https://www.tinkercad.com/things/6gxLfOOpupN-exquisite-hillar-jaiks/edit?sharecode=fcBBseQwUTYz901wTldScv5vyZ9CPIAbr_icdoSUAqk
 # Dagbók
