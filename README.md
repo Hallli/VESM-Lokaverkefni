@@ -8,7 +8,7 @@ https://www.tinkercad.com/things/0HbZ9zkIMRe-lokaverkefni-vesm/editel?sharecode=
 # Myndband af bílnum
 
 # Bíll link
-
+https://www.tinkercad.com/things/6gxLfOOpupN-exquisite-hillar-jaiks/edit?sharecode=fcBBseQwUTYz901wTldScv5vyZ9CPIAbr_icdoSUAqk
 # Dagbók
 Ég klúðraði soldið mikið á verkefninu. Ég búinn að gefast upp en Stefán bauðst til að hjálpa mér, ég er honum mjög þakklátur að hafa hjálpað mér með þetta. Ég var nefnilega svona hrikalega seinn að byrja á þessu, mér finnst svo erfitt að ekki vera í skólanum og gleymi mér oft heima, og þegar skilafresturinn kláraðist reif ég mig í gang og stútaði verkefninu. Ég byrjaði á að henda saman cuircit dótinu og kóða það tók mig soldna stund að koma öllu saman þótt fyrir mikla hjálp. Þegar ég var búinn með það þá var það bara gera bílinn sem ég hafði betri á. Skilaði þessu svo á github og uppfyllti það sem var óskast af mér.
 
