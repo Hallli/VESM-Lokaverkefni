@@ -4,7 +4,7 @@ lokaverkefni i vesm
 # Myndband af Snúrustýrður bíll með fjarstýringu
 
 # Tinkercad link
-https://www.tinkercad.com/things/0HbZ9zkIMRe-lokaverkefni-vesm/editel?sharecode=mu_86OeuWjopSjfQB7NHDVkmQz9CHCpvOMbl7WmVdIE
+https://www.tinkercad.com/things/0HbZ9zkIMRe-lokaverkefni-vesm/editel?sharecode=BJIkOjMOXkG2-XQpFAz2repSeiCsLwcHQSO4gvbR3RQ
 # Myndband af bílnum
 
 # Bíll link
